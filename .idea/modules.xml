@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Dataguru-python/.idea/Dataguru-python.iml" filepath="$PROJECT_DIR$/../Dataguru-python/.idea/Dataguru-python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Heibaike-python.iml" filepath="$PROJECT_DIR$/.idea/Heibaike-python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MG-python/.idea/MG-python.iml" filepath="$PROJECT_DIR$/../MG-python/.idea/MG-python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Scrapy-python/.idea/Scrapy-python.iml" filepath="$PROJECT_DIR$/../Scrapy-python/.idea/Scrapy-python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Zh-python/.idea/Zh-python.iml" filepath="$PROJECT_DIR$/../Zh-python/.idea/Zh-python.iml" />
+    </modules>
+  </component>
+</project>

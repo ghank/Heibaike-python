@@ -1,0 +1,29 @@
+﻿作业
+4-1 
+实现一个finacci函数，能够高效返回随机数n的fibnacci数列。
+如
+nlist=[randint(1,40) for I in xrange(100)]
+[fib(n) for n in nlist]
+
+
+
+4-2 
+公交系统的读文件和查找分别改为函数形式。输入起点和终点，
+返回
+最少换乘的方案。
+
+
+
+4-3 
+tictactoe的改进，增加人机对弈。
+
+
+
+思考题
+4-4 
+用wxpython，实现井字棋的图形界面。（关注gui可以考虑）
+
+
+
+4-5 
+用minimax算法提升井字棋的AI

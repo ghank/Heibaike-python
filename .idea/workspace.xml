@@ -1,0 +1,1956 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98fa174b-d36d-4d45-8e19-9b8a85972bf9" name="Default" comment="非代码更新。">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/beijing_jt.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/beijing_jt.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_hiebanke/__MACOSX/._bestscore.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_hiebanke/__MACOSX/._icon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/2048.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._2048.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._Microsoft.VC90.CRT.manifest" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/.__ctypes.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/.__hashlib.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._bestscore.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._bz2.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._mm.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._msvcm90.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._msvcp90.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._msvcr90.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._musics" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._python27.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._select.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._source" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._unicodedata.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._w9xpopen.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._wx._controls_.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._wx._core_.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._wx._gdi_.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._wx._misc_.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._wx._windows_.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._wxbase294u_net_vc90.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._wxbase294u_vc90.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._wxmsw294u_adv_vc90.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._wxmsw294u_core_vc90.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._wxmsw294u_html_vc90.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/images/._icon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/musics/._merge.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/musics/._move.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/musics/._over.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/_ctypes.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/_hashlib.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/bz2.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/images/icon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/mm.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/msvcm90.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/msvcp90.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/msvcr90.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/musics/merge.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/musics/move.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/musics/over.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/python27.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/select.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/unicodedata.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/w9xpopen.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/wx._controls_.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/wx._core_.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/wx._gdi_.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/wx._misc_.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/wx._windows_.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/wxbase294u_net_vc90.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/wxbase294u_vc90.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/wxmsw294u_adv_vc90.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/wxmsw294u_core_vc90.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/wxmsw294u_html_vc90.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/homework/icon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/2048_hiebanke.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/2048_old.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/src/code.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/text/51CTO下载-WebScrapingwithPython.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/text/QQ图片20161113235912.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/text/[Packt Publishing] OpenCV Computer Vision with Python.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/text/并行编程.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/geckodriver-v0.10.0-win64.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/geckodriver-v0.11.1-win64.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Heibaike-python.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/bubble_sort.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/bubble_sort.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/val_ex1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/val_ex2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/val_ex3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/val_ex4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/a.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/b.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/file_ex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/file_ex1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/file_ex2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/file_ex3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/file_test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/guess_math.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/guess_math1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/guess_number.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/meta_00.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/user.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/article_000.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/article_001.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/base_fun.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/callback_demo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/callback_demo2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/closure_demo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/custom_info.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/decorator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/decorator1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/decorator2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/decorator_mode_func.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/finacci_demo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/func_decrator_2ceng_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/func_decrator_3ceng_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/func_decrator_3ceng_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/func_prog2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/generator_01.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/generator_02.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/generator_demo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/homework.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/homework2-4_csv_ex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/homework2-4_file_ex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/homework3-4_csv_ex1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/homework4-2_ex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/homework4_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/homework_3_m20160119.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/homework_4-1_fib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/homework_4-3_tic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/my_sqrt.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/my_sqrt_demo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/tictactoe.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/tongji.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/base_classic_new_class.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/property01.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/property02.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/property03.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/property04.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/property07.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/property08.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/property09.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_hiebanke/__MACOSX/._wx_2048.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_hiebanke/bestscore.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_hiebanke/wx_2048.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/2048.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/Microsoft.VC90.CRT.manifest" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/source/._2048.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/bestscore.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/homework/bestscore.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/homework/homework5_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/homework/homework5_2_3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/homework/homework5_4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/homework/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/inherit_00_simple.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/inherit_01_classic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/inherit_02_super_new.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/inherit_03_shape.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/inherit_03_simple.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/meta_00.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/meta_04.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/meta_05.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/meta_07.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/meta_08_new.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/meta_09_abstract.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/meta_10_simple_orm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/method_01_static_class.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/method_02_add_sub.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/poly_01_shape.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/poly_02_shape.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/wx_00_base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/wx_01_shape.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/wx_02_button.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/text/homework.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/demo_ex1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010006x8.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100070c.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000721.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100074c.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000753.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010007ae.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000c9l.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000cat.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000cbx.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000ce8.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000cof.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000cqj.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000cu0.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000cv0.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000cyp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000d17.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000d2i.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000d3u.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000d5c.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000d61.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000d6p.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000d84.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000d8w.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000dak.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01007wo8.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01007xmv.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01007yid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100801l.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010081nr.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008382.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010085a4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010088ot.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008amh.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008d9g.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008df2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008dmd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008dqg.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008eh7.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008f3k.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008h2i.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008jf6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008kf0.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008krq.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008mkn.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008qky.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008r8e.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008rvm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008sjt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008t7r.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008thj.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008v9j.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008z0p.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008zov.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009024.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010090ey.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010090xs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010091cn.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010092vq.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100936o.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010093g5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010093v1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010093v5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100945n.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010094qa.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009530.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100964k.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010096s6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100989z.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010099sf.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009axj.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009ccz.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009cnz.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009d42.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009f7p.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009gu5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009h7x.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009j6d.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009jqx.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009kdf.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009krd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009ktc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009mu4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009o5c.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009obb.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009po8.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009pw2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009qkz.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009qtg.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009r81.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009sd3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009szc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009weq.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009y33.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009za5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009zls.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100a1gn.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100a3cb.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100a86l.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100a8z2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100aad3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ab7i.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100aczc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100admm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100aeaw.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100agbw.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100agjo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ai51.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100akcy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100al72.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100amac.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ang1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ao4z.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100aor3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100apmk.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100apus.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100aq1r.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100aqu5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100avyr.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100axo4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100aymf.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100aysu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100az8m.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100b32b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100b3p1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100b8gv.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bcja.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bdyh.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bfam.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bidz.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bjzo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bk7c.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100blxm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bmx2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bngd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bqyz.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bsnc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bvdj.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bwqu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bxke.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bxug.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100by9s.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bzu2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bzy3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100c1wj.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100c88x.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100cbdr.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100cbzk.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100cc5a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ci6o.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100co3d.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100crub.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ctxi.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100cupe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100cwcv.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100d03h.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100d3om.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100d69e.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100d6w7.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100d84g.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100d960.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100d9nr.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100d9rj.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100daj0.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100db54.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100dcxx.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100dhqv.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100dj9f.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100dk6w.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100dlh2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100dmu6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100dnq0.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100dsb8.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100dtf5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100dtyd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100dva6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100dw50.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100dzw8.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100e26x.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100e3ba.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100e460.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100e7uv.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100easn.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ebt1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ee0m.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ef63.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100egc6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100en8n.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100eq6k.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100erbx.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ev3s.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100evps.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100exn9.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ey1x.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ezrc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100fc2s.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100fej4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100fixk.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100fk2m.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100fkq5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100fopo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100fozw.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100fpjr.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100fyt4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100fzmm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100g03k.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100g7gq.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100g801.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100g8zf.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100g9t3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100gce1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100gcs5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100gfc4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ghw3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100gjd6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100glm8.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100gqf8.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100gulz.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100gxme.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100gyzh.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100gzwj.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100h01f.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100h2p8.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100h3c8.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100h7b2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100h9tc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100hcf6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100hd4i.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100hrm2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ht1x.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100hy9k.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ic2e.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100igbb.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100insm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ixd0.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100iy7s.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100j9lt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100japd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100jbqq.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100jloa.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100khvs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100kusa.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100l4sf.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100lcum.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100limx.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100lvjb.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100mrhm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100mri0.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010176x6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010176yw.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01017hr5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01017hsy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01017hzx.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01017i4g.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01017ige.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01017ijd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01017ijj.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01017iv8.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01017j0y.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010183ai.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010183ny.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0101854o.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010185jh.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102dvpk.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102dwvy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102dwxv.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102dx7u.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102dxmp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102dyao.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102dz5s.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102dz84.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102dz9f.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102dzqy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e02q.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e061.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e06b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e074.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e07s.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e0ak.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e0eu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e0fm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e0hj.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e0ib.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e0l4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e0p3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e0th.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e11n.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e150.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e3nr.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e3v6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e42a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e490.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e4c3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e4gf.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e4qq.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e54a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e5np.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e63p.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e7er.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e7pk.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e7vx.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e7wj.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e85j.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102eau0.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102eb6w.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102eb8d.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102ec39.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102eck1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102ecxd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102edcd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102ef4t.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102egl0.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102ek51.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102eksm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102elmo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102eo83.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102eohi.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/scrapy_ex1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/scrapy_ex2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/scrapy_ex3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/src/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/src/convert_png.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/src/crawler_ex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/src/crawler_ex000.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/src/crawler_ex02.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/src/crawler_ex02_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/src/opencv01.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/src/selenium_demo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/src/session_post.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/text/Record.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/src/crawler_thread_map.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/src/gil_test0.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/src/log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/src/para_producer_consumer_nolock.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/src/para_producer_consumer_queue.py" />
+    </list>
+    <ignored path="Heibaike-python.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored mask="*.zip" />
+    <ignored path="lesson7/__init__.py" />
+    <ignored path="lesson7/homework/demo_ex1.py" />
+    <ignored path="lesson7/homework/scrapy_ex1.py" />
+    <ignored path="lesson7/homework/scrapy_ex2.py" />
+    <ignored path="lesson7/homework/scrapy_ex3.py" />
+    <ignored path="lesson7/src/__init__.py" />
+    <ignored path="lesson7/src/code.zip" />
+    <ignored path="lesson7/src/convert_png.py" />
+    <ignored path="lesson7/src/crawler_ex.py" />
+    <ignored path="lesson7/src/crawler_ex000.py" />
+    <ignored path="lesson7/src/crawler_ex02.py" />
+    <ignored path="lesson7/src/crawler_ex02_1.py" />
+    <ignored path="lesson7/src/opencv01.py" />
+    <ignored path="lesson7/src/selenium_demo.py" />
+    <ignored path="lesson7/src/session_post.py" />
+    <ignored path="lesson7/text/51CTO下载-WebScrapingwithPython.pdf" />
+    <ignored path="lesson7/text/[Packt Publishing] OpenCV Computer Vision with Python.pdf" />
+    <ignored path="lesson7/text/QQ图片20161113235912.png" />
+    <ignored path="lesson7/text/Record.txt" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b010006x8.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100070c.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01000721.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100074c.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01000753.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b010007ae.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01000c9l.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01000cat.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01000cbx.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01000ce8.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01000cof.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01000cqj.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01000cu0.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01000cv0.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01000cyp.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01000d17.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01000d2i.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01000d3u.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01000d5c.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01000d61.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01000d6p.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01000d84.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01000d8w.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01000dak.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01007wo8.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01007xmv.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01007yid.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100801l.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b010081nr.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01008382.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b010085a4.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b010088ot.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01008amh.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01008d9g.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01008df2.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01008dmd.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01008dqg.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01008eh7.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01008f3k.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01008h2i.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01008jf6.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01008kf0.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01008krq.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01008mkn.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01008qky.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01008r8e.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01008rvm.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01008sjt.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01008t7r.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01008thj.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01008v9j.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01008z0p.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01008zov.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01009024.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b010090ey.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b010090xs.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b010091cn.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b010092vq.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100936o.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b010093g5.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b010093v1.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b010093v5.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100945n.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b010094qa.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01009530.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100964k.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b010096s6.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100989z.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b010099sf.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01009axj.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01009ccz.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01009cnz.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01009d42.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01009f7p.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01009gu5.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01009h7x.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01009j6d.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01009jqx.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01009kdf.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01009krd.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01009ktc.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01009mu4.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01009o5c.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01009obb.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01009po8.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01009pw2.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01009qkz.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01009qtg.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01009r81.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01009sd3.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01009szc.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01009weq.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01009y33.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01009za5.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01009zls.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100a1gn.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100a3cb.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100a86l.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100a8z2.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100aad3.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100ab7i.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100aczc.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100admm.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100aeaw.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100agbw.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100agjo.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100ai51.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100akcy.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100al72.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100amac.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100ang1.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100ao4z.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100aor3.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100apmk.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100apus.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100aq1r.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100aqu5.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100avyr.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100axo4.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100aymf.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100aysu.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100az8m.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100b32b.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100b3p1.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100b8gv.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100bcja.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100bdyh.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100bfam.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100bidz.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100bjzo.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100bk7c.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100blxm.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100bmx2.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100bngd.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100bqyz.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100bsnc.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100bvdj.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100bwqu.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100bxke.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100bxug.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100by9s.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100bzu2.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100bzy3.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100c1wj.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100c88x.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100cbdr.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100cbzk.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100cc5a.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100ci6o.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100co3d.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100crub.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100ctxi.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100cupe.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100cwcv.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100d03h.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100d3om.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100d69e.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100d6w7.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100d84g.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100d960.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100d9nr.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100d9rj.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100daj0.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100db54.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100dcxx.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100dhqv.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100dj9f.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100dk6w.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100dlh2.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100dmu6.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100dnq0.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100dsb8.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100dtf5.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100dtyd.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100dva6.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100dw50.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100dzw8.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100e26x.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100e3ba.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100e460.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100e7uv.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100easn.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100ebt1.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100ee0m.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100ef63.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100egc6.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100en8n.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100eq6k.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100erbx.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100ev3s.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100evps.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100exn9.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100ey1x.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100ezrc.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100fc2s.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100fej4.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100fixk.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100fk2m.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100fkq5.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100fopo.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100fozw.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100fpjr.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100fyt4.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100fzmm.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100g03k.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100g7gq.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100g801.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100g8zf.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100g9t3.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100gce1.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100gcs5.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100gfc4.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100ghw3.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100gjd6.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100glm8.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100gqf8.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100gulz.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100gxme.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100gyzh.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100gzwj.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100h01f.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100h2p8.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100h3c8.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100h7b2.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100h9tc.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100hcf6.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100hd4i.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100hrm2.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100ht1x.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100hy9k.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100ic2e.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100igbb.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100insm.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100ixd0.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100iy7s.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100j9lt.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100japd.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100jbqq.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100jloa.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100khvs.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100kusa.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100l4sf.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100lcum.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100limx.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100lvjb.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100mrhm.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0100mri0.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b010176x6.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b010176yw.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01017hr5.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01017hsy.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01017hzx.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01017i4g.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01017ige.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01017ijd.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01017ijj.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01017iv8.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b01017j0y.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b010183ai.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b010183ny.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0101854o.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b010185jh.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102dvpk.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102dwvy.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102dwxv.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102dx7u.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102dxmp.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102dyao.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102dz5s.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102dz84.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102dz9f.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102dzqy.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102e02q.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102e061.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102e06b.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102e074.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102e07s.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102e0ak.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102e0eu.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102e0fm.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102e0hj.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102e0ib.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102e0l4.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102e0p3.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102e0th.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102e11n.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102e150.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102e3nr.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102e3v6.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102e42a.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102e490.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102e4c3.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102e4gf.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102e4qq.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102e54a.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102e5np.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102e63p.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102e7er.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102e7pk.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102e7vx.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102e7wj.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102e85j.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102eau0.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102eb6w.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102eb8d.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102ec39.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102eck1.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102ecxd.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102edcd.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102ef4t.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102egl0.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102ek51.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102eksm.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102elmo.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102eo83.html" />
+    <ignored path="lesson7/homework/hanhan/blog_4701280b0102eohi.html" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Heibaike-python" />
+    <favorites_list name="Zh-python">
+      <favorite_root url="file://$PROJECT_DIR$/../Zh-python" module="Zh-python" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/../Zh-python/.idea" module="Zh-python" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/../Zh-python/.idea/misc.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/../Zh-python/.idea/modules.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/../Zh-python/.idea/workspace.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/../Zh-python/.idea/Zh-python.iml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/../Zh-python/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/../Zh-python/pdfkit_ex.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject" module="Zh-python" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src" module="Zh-python" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/main.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/sipPaser.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/sqlHandle.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/udpClient.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/udpServer.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/paraQueue.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/text" module="Zh-python" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/text/README.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+      </favorite_root>
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="paraQueue.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/paraQueue.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="52" column="18" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+              <folding>
+                <element signature="e#41#64#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sipPaser.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/sipPaser.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="udpClient.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/udpClient.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sqlHandle.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/sqlHandle.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+              <folding>
+                <element signature="e#145#181#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="udpServer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/udpServer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              <folding>
+                <element signature="e#139#152#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="homework5_ex.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson5/homework5_ex.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="17" />
+              <folding>
+                <element signature="e#126#162#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="hank &lt;zhanghao_87@aliyun.com&gt;" />
+        <option value="hank" />
+      </list>
+    </option>
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Zh-python" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lesson7/src/selenium_demo.py" />
+        <option value="$PROJECT_DIR$/../Dataguru-python/lesson6/mongoDemo.py" />
+        <option value="$PROJECT_DIR$/../Dataguru-python/lesson6/aggregationDemo.py" />
+        <option value="$PROJECT_DIR$/lesson7/homework/scrapy_ex1Demo.py" />
+        <option value="$PROJECT_DIR$/lesson7/homework/demo_ex1.py" />
+        <option value="$PROJECT_DIR$/lesson7/homework/scrapy_ex2.py" />
+        <option value="$PROJECT_DIR$/lesson7/src/crawler_ex02.py" />
+        <option value="$PROJECT_DIR$/lesson7/src/crawler_ex02_1.py" />
+        <option value="$PROJECT_DIR$/lesson7/src/crawler_ex.py" />
+        <option value="$PROJECT_DIR$/lesson7/homework/scrapy_ex1.py" />
+        <option value="$PROJECT_DIR$/lesson7/homework/scrapy_ex3.py" />
+        <option value="$PROJECT_DIR$/lesson7/src/session_post.py" />
+        <option value="$PROJECT_DIR$/lesson8/src/gil_test0.py" />
+        <option value="$PROJECT_DIR$/../Zh-python/pdfkit_ex.py" />
+        <option value="$PROJECT_DIR$/lesson8/src/para_producer_consumer_queue.py" />
+        <option value="$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyTest.py" />
+        <option value="$PROJECT_DIR$/../Dataguru-python/lesson6/homework6_ex.py" />
+        <option value="$PROJECT_DIR$/../Zh-python/__init__.py" />
+        <option value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/__init__.py" />
+        <option value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/sqlHandle.py" />
+        <option value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/udpServer.py" />
+        <option value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/main.py" />
+        <option value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/para_queue.py" />
+        <option value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/udpClient.py" />
+        <option value="$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo3.py" />
+        <option value="$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo4.py" />
+        <option value="$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo2.py" />
+        <option value="$PROJECT_DIR$/lesson6/homework/homework5_1.py" />
+        <option value="$PROJECT_DIR$/../asteroids/not_addr.py" />
+        <option value="$PROJECT_DIR$/../MG-python/lesson0/trip.py" />
+        <option value="$PROJECT_DIR$/../Dataguru-python/lesson7/text/22" />
+        <option value="$PROJECT_DIR$/../Dataguru-python/lesson7/bs4Demo.py" />
+        <option value="$PROJECT_DIR$/../Dataguru-python/lesson7/beautifulsoupDemo.py" />
+        <option value="$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo5.py" />
+        <option value="$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo.py" />
+        <option value="$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo1.py" />
+        <option value="$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo_novel.py" />
+        <option value="$PROJECT_DIR$/../MG-python/beautifulSoup/bsDemo3.3.py" />
+        <option value="$PROJECT_DIR$/../MG-python/beautifulSoup/scrapyDemo3.4.py" />
+        <option value="$PROJECT_DIR$/../Scrapy-python/wikiSpider/wikiSpider/items.py" />
+        <option value="$PROJECT_DIR$/../Scrapy-python/wikiSpider/wikiSpider/spiders/articleSpider.py" />
+        <option value="$PROJECT_DIR$/../Dataguru-python/lesson7/doubanbookspider.py" />
+        <option value="$PROJECT_DIR$/../MG-python/beautifulSoup/bsDemo5.1.py" />
+        <option value="$PROJECT_DIR$/../MG-python/beautifulSoup/bsDemo3.1.py" />
+        <option value="$PROJECT_DIR$/../MG-python/beautifulSoup/bsDemo-novel.py" />
+        <option value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/para_queue.py" />
+        <option value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/sipPaser.py" />
+        <option value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/udpClient.py" />
+        <option value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/sqlHandle.py" />
+        <option value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/udpServer.py" />
+        <option value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/paraQueue.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1942" />
+    <option name="height" value="1042" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Heibaike-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Heibaike-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zh-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Heibaike-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zh-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="videoSqlPoject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Heibaike-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Heibaike-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MG-python" />
+    <property name="SearchEverywhereHistoryKey" value="#&#9;null&#9;null" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zhang\Documents\python\pycharm-project\Scrapy-python\wikiSpider" />
+      <recent name="C:\Users\zhang\Documents\python\pycharm-project\Scrapy-python" />
+      <recent name="C:\Users\zhang\Documents\python\pycharm-project\MG-python\beautifulSoup" />
+      <recent name="C:\Users\zhang\Documents\python\pycharm-project\MG-python\lesson0" />
+      <recent name="C:\Users\zhang\Documents\python\pycharm-project\Dataguru-python\lesson7" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zhang\Documents\python\pycharm-project\Dataguru-python\lesson4" />
+      <recent name="C:\Users\zhang\Documents\python\pycharm-project\Heibaike-python\lesson6\homework" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.paraQueue">
+    <configuration default="false" name="bsDemo-novel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../MG-python/beautifulSoup" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MG-python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../MG-python/beautifulSoup/bsDemo-novel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="sipPaser" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Zh-python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/sipPaser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="paraQueue" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Zh-python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/paraQueue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="homework5_ex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Dataguru-python/lesson5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Dataguru-python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Dataguru-python/lesson5/homework5_ex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="udpServer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Zh-python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/udpServer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Heibaike-python" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Heibaike-python" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Heibaike-python" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Heibaike-python" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Heibaike-python" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Heibaike-python" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Heibaike-python" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.bsDemo-novel" />
+      <item index="1" class="java.lang.String" itemvalue="Python.sipPaser" />
+      <item index="2" class="java.lang.String" itemvalue="Python.paraQueue" />
+      <item index="3" class="java.lang.String" itemvalue="Python.homework5_ex" />
+      <item index="4" class="java.lang.String" itemvalue="Python.udpServer" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.paraQueue" />
+        <item index="1" class="java.lang.String" itemvalue="Python.udpServer" />
+        <item index="2" class="java.lang.String" itemvalue="Python.homework5_ex" />
+        <item index="3" class="java.lang.String" itemvalue="Python.sipPaser" />
+        <item index="4" class="java.lang.String" itemvalue="Python.bsDemo-novel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\zhang\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98fa174b-d36d-4d45-8e19-9b8a85972bf9" name="Default" comment="" />
+      <created>1477456017727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1477456017727</updated>
+    </task>
+    <task id="LOCAL-00001" summary="heibaike homework.&#10;">
+      <created>1479521162129</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1479521162129</updated>
+    </task>
+    <task id="LOCAL-00002" summary="视频接入网关业务信息分析程序&#10;1、实现业务数据解析；&#10;2、转换成SQL元素对象，存入数据库。&#10;目前仅实现业务数据的部分解析。&#10;">
+      <created>1479524363887</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1479524363887</updated>
+    </task>
+    <task id="LOCAL-00003" summary="video project&#10;">
+      <created>1479659706822</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1479659706822</updated>
+    </task>
+    <task id="LOCAL-00004" summary="增加sip解析模块。">
+      <created>1479692715495</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1479692715495</updated>
+    </task>
+    <task id="LOCAL-00005" summary="para_queue重命名为paraQueue.&#10;">
+      <created>1479692950392</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1479692950392</updated>
+    </task>
+    <task id="LOCAL-00006" summary="更新功能。&#10;">
+      <created>1479720116297</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1479720116297</updated>
+    </task>
+    <task id="LOCAL-00007" summary="非代码更新。">
+      <created>1479720320936</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1479720320936</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_TestParser - 2016.11.15 at 00h 05m 46s.xml">
+      <configuration name="Unittests in TestParser" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_scrapyTest - 2016.11.15 at 00h 06m 29s.xml">
+      <configuration name="Unittests in scrapyTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_scrapyTest - 2016.11.15 at 00h 06m 46s.xml">
+      <configuration name="Unittests in scrapyTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_scrapyTest - 2016.11.15 at 00h 07m 09s.xml">
+      <configuration name="Unittests in scrapyTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_scrapyTest - 2016.11.15 at 00h 09m 13s.xml">
+      <configuration name="Unittests in scrapyTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_scrapyTest - 2016.11.15 at 00h 12m 07s.xml">
+      <configuration name="Unittests in scrapyTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_lesson5 - 2016.11.06 at 20h 06m 47s.xml">
+      <configuration name="Unittests in test_lesson5" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_lesson5 - 2016.11.06 at 20h 08m 13s.xml">
+      <configuration name="Unittests in test_lesson5" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_lesson5 - 2016.11.06 at 20h 08m 39s.xml">
+      <configuration name="Unittests in test_lesson5" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_lesson5 - 2016.11.06 at 20h 09m 14s.xml">
+      <configuration name="Unittests in test_lesson5" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13050398" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275218" sideWeight="0.49404117" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2938979" sideWeight="0.44615385" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3312578" sideWeight="0.4928382" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.49814323" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2938979" sideWeight="0.5538462" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24827586" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5691158" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3985056" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25125" sideWeight="0.49177718" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ini" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="heibanke" />
+    <MESSAGE value="视频接入网关业务信息分析程序&#10;1、实现业务数据解析；&#10;2、转换成SQL元素对象，存入数据库。&#10;目前仅实现业务数据的部分解析。&#10;" />
+    <MESSAGE value="heibaike homework.&#10;" />
+    <MESSAGE value="video project&#10;" />
+    <MESSAGE value="增加sip解析模块。" />
+    <MESSAGE value="&#10;" />
+    <MESSAGE value="para_queue重命名为paraQueue.&#10;" />
+    <MESSAGE value="更新功能。&#10;" />
+    <MESSAGE value="非代码更新。" />
+    <option name="LAST_COMMIT_MESSAGE" value="非代码更新。" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Scrapy-python/wikiSpider/wikiSpider/spiders/articleSpider.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="21" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/Python27/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/text/0">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-960">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/text/1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/text/2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/text/34">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/text/33">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/text/35">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/text/36">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/text/49">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/text/22">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2020">
+          <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/text/28">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/text/26">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/text/4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/text/3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/douban_book_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="41" column="44" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/HTMLParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="474" column="0" selection-start-line="474" selection-start-column="0" selection-end-line="474" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/requests/sessions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="595" column="0" selection-start-line="595" selection-start-column="0" selection-end-line="595" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/requests/adapters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="486" column="0" selection-start-line="486" selection-start-column="0" selection-end-line="486" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo_novel.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="103" column="4" selection-start-line="103" selection-start-column="4" selection-end-line="103" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/bookList.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="131" column="3" selection-start-line="131" selection-start-column="3" selection-end-line="131" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="91" column="24" selection-start-line="91" selection-start-column="24" selection-end-line="91" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="78" column="4" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/bs4Demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MG-python/beautifulSoup/bsDemo3.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Scrapy-python/wikiSpider/scrapyDemo3.4.py" />
+    <entry file="file://$PROJECT_DIR$/../Scrapy-python/wikiSpider/wikiSpider/spiders/articleSpider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/doubanbookspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MG-python/beautifulSoup/logo.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo_novel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="90" column="23" selection-start-line="90" selection-start-column="8" selection-end-line="90" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson7/homework/scrapy_ex3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="26" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MG-python/beautifulSoup/bsDemo3.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="122" column="29" selection-start-line="122" selection-start-column="22" selection-end-line="122" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MG-python/beautifulSoup/bsDemo-novel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MG-python/beautifulSoup/bsDemo5.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python35/Lib/site-packages/bs4/element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="996" column="0" selection-start-line="996" selection-start-column="0" selection-end-line="996" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/main.py" />
+    <entry file="file://$PROJECT_DIR$/../Scrapy-python/wikiSpider/wikiSpider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1355">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Scrapy-python/wikiSpider/wikiSpider/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Scrapy-python/wikiSpider/wikiSpider/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson6/homework6_ex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-780">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson8/src/para_producer_consumer_queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson8/src/para_producer_consumer_nolock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-419">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson8/src/gil_test0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-420">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/udpClient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/sqlHandle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <folding>
+            <element signature="e#145#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson5/homework5_ex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="17" />
+          <folding>
+            <element signature="e#126#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/udpServer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="e#139#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/sipPaser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/paraQueue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="52" column="18" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+          <folding>
+            <element signature="e#41#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
