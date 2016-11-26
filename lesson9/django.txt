@@ -1,0 +1,11 @@
+实验4 django测试 
+unitTest 自动化测试
+tools：
+coverage 测试覆盖率工具*
+操作命令：
+测试模块：coverage run --source='.' manage.py test accounts.tests
+输出报告：coverage report -m
+pylint   代码检查工具*
+测试：pylint --files-output=y -r y -f text ../accounts/views.py
+
+ 

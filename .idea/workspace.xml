@@ -4,514 +4,15 @@
     <option name="SCOPE_TYPE" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98fa174b-d36d-4d45-8e19-9b8a85972bf9" name="Default" comment="非代码更新。">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/beijing_jt.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/beijing_jt.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_hiebanke/__MACOSX/._bestscore.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_hiebanke/__MACOSX/._icon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/2048.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._2048.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._Microsoft.VC90.CRT.manifest" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/.__ctypes.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/.__hashlib.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._bestscore.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._bz2.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._images" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._mm.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._msvcm90.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._msvcp90.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._msvcr90.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._musics" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._python27.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._select.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._source" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._unicodedata.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._w9xpopen.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._wx._controls_.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._wx._core_.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._wx._gdi_.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._wx._misc_.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._wx._windows_.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._wxbase294u_net_vc90.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._wxbase294u_vc90.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._wxmsw294u_adv_vc90.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._wxmsw294u_core_vc90.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/._wxmsw294u_html_vc90.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/images/._icon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/musics/._merge.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/musics/._move.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/musics/._over.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/_ctypes.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/_hashlib.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/bz2.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/images/icon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/mm.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/msvcm90.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/msvcp90.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/msvcr90.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/musics/merge.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/musics/move.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/musics/over.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/python27.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/select.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/unicodedata.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/w9xpopen.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/wx._controls_.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/wx._core_.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/wx._gdi_.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/wx._misc_.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/wx._windows_.pyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/wxbase294u_net_vc90.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/wxbase294u_vc90.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/wxmsw294u_adv_vc90.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/wxmsw294u_core_vc90.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/wxmsw294u_html_vc90.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/homework/icon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/2048_hiebanke.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/2048_old.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/src/code.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/text/51CTO下载-WebScrapingwithPython.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/text/QQ图片20161113235912.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/text/[Packt Publishing] OpenCV Computer Vision with Python.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/text/并行编程.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/geckodriver-v0.10.0-win64.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/geckodriver-v0.11.1-win64.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Heibaike-python.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/bubble_sort.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/bubble_sort.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/val_ex1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/val_ex2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/val_ex3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/val_ex4.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/a.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/b.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/file_ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/file_ex1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/file_ex2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/file_ex3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/file_test.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/guess_math.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/guess_math1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/guess_number.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/meta_00.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/user.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/article_000.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/article_001.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/base_fun.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/callback_demo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/callback_demo2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/closure_demo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/custom_info.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/decorator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/decorator1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/decorator2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/decorator_mode_func.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/finacci_demo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/func_decrator_2ceng_2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/func_decrator_3ceng_1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/func_decrator_3ceng_2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/func_prog2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/generator_01.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/generator_02.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/generator_demo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/homework.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/homework2-4_csv_ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/homework2-4_file_ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/homework3-4_csv_ex1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/homework4-2_ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/homework4_1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/homework_3_m20160119.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/homework_4-1_fib.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/homework_4-3_tic.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/my_sqrt.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/my_sqrt_demo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/tictactoe.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/tongji.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/base_classic_new_class.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/property01.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/property02.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/property03.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/property04.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/property07.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/property08.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/property09.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_hiebanke/__MACOSX/._wx_2048.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_hiebanke/bestscore.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_hiebanke/wx_2048.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/2048.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/Microsoft.VC90.CRT.manifest" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__MACOSX/source/._2048.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/2048_old/bestscore.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/homework/bestscore.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/homework/homework5_1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/homework/homework5_2_3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/homework/homework5_4.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/homework/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/inherit_00_simple.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/inherit_01_classic.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/inherit_02_super_new.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/inherit_03_shape.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/inherit_03_simple.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/meta_00.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/meta_04.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/meta_05.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/meta_07.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/meta_08_new.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/meta_09_abstract.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/meta_10_simple_orm.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/method_01_static_class.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/method_02_add_sub.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/poly_01_shape.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/poly_02_shape.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/wx_00_base.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/wx_01_shape.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/src/wx_02_button.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/text/homework.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/demo_ex1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010006x8.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100070c.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000721.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100074c.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000753.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010007ae.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000c9l.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000cat.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000cbx.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000ce8.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000cof.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000cqj.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000cu0.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000cv0.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000cyp.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000d17.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000d2i.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000d3u.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000d5c.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000d61.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000d6p.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000d84.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000d8w.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01000dak.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01007wo8.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01007xmv.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01007yid.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100801l.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010081nr.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008382.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010085a4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010088ot.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008amh.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008d9g.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008df2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008dmd.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008dqg.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008eh7.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008f3k.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008h2i.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008jf6.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008kf0.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008krq.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008mkn.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008qky.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008r8e.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008rvm.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008sjt.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008t7r.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008thj.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008v9j.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008z0p.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01008zov.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009024.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010090ey.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010090xs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010091cn.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010092vq.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100936o.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010093g5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010093v1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010093v5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100945n.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010094qa.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009530.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100964k.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010096s6.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100989z.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010099sf.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009axj.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009ccz.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009cnz.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009d42.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009f7p.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009gu5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009h7x.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009j6d.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009jqx.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009kdf.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009krd.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009ktc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009mu4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009o5c.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009obb.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009po8.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009pw2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009qkz.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009qtg.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009r81.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009sd3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009szc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009weq.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009y33.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009za5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01009zls.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100a1gn.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100a3cb.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100a86l.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100a8z2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100aad3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ab7i.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100aczc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100admm.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100aeaw.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100agbw.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100agjo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ai51.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100akcy.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100al72.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100amac.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ang1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ao4z.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100aor3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100apmk.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100apus.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100aq1r.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100aqu5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100avyr.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100axo4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100aymf.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100aysu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100az8m.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100b32b.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100b3p1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100b8gv.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bcja.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bdyh.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bfam.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bidz.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bjzo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bk7c.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100blxm.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bmx2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bngd.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bqyz.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bsnc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bvdj.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bwqu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bxke.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bxug.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100by9s.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bzu2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100bzy3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100c1wj.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100c88x.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100cbdr.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100cbzk.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100cc5a.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ci6o.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100co3d.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100crub.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ctxi.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100cupe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100cwcv.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100d03h.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100d3om.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100d69e.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100d6w7.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100d84g.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100d960.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100d9nr.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100d9rj.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100daj0.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100db54.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100dcxx.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100dhqv.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100dj9f.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100dk6w.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100dlh2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100dmu6.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100dnq0.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100dsb8.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100dtf5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100dtyd.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100dva6.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100dw50.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100dzw8.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100e26x.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100e3ba.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100e460.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100e7uv.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100easn.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ebt1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ee0m.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ef63.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100egc6.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100en8n.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100eq6k.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100erbx.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ev3s.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100evps.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100exn9.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ey1x.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ezrc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100fc2s.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100fej4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100fixk.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100fk2m.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100fkq5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100fopo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100fozw.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100fpjr.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100fyt4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100fzmm.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100g03k.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100g7gq.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100g801.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100g8zf.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100g9t3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100gce1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100gcs5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100gfc4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ghw3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100gjd6.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100glm8.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100gqf8.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100gulz.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100gxme.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100gyzh.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100gzwj.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100h01f.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100h2p8.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100h3c8.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100h7b2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100h9tc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100hcf6.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100hd4i.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100hrm2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ht1x.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100hy9k.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ic2e.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100igbb.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100insm.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100ixd0.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100iy7s.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100j9lt.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100japd.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100jbqq.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100jloa.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100khvs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100kusa.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100l4sf.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100lcum.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100limx.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100lvjb.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100mrhm.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0100mri0.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010176x6.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010176yw.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01017hr5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01017hsy.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01017hzx.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01017i4g.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01017ige.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01017ijd.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01017ijj.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01017iv8.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b01017j0y.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010183ai.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010183ny.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0101854o.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b010185jh.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102dvpk.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102dwvy.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102dwxv.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102dx7u.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102dxmp.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102dyao.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102dz5s.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102dz84.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102dz9f.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102dzqy.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e02q.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e061.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e06b.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e074.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e07s.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e0ak.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e0eu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e0fm.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e0hj.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e0ib.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e0l4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e0p3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e0th.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e11n.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e150.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e3nr.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e3v6.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e42a.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e490.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e4c3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e4gf.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e4qq.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e54a.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e5np.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e63p.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e7er.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e7pk.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e7vx.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e7wj.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102e85j.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102eau0.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102eb6w.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102eb8d.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102ec39.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102eck1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102ecxd.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102edcd.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102ef4t.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102egl0.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102ek51.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102eksm.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102elmo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102eo83.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/hanhan/blog_4701280b0102eohi.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/scrapy_ex1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/scrapy_ex2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/homework/scrapy_ex3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/src/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/src/convert_png.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/src/crawler_ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/src/crawler_ex000.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/src/crawler_ex02.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/src/crawler_ex02_1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/src/opencv01.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/src/selenium_demo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/src/session_post.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/text/Record.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/src/crawler_thread_map.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/src/gil_test0.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/src/log.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/src/para_producer_consumer_nolock.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/src/para_producer_consumer_queue.py" />
+    <list default="true" id="98fa174b-d36d-4d45-8e19-9b8a85972bf9" name="Default" comment="基于python实现的生产消费模型，采取的是多线程方式。&#10;功能是：&#10;生产者通过updserver将读取的sip报文写入queue中，&#10;消费者通过queue提取sip信息，解析，写入数据库。&#10;&#10;存在的问题：&#10;1、可能存在编码问题；&#10;2、程序运行后，不能通过crtl+c的方式中断。">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Zh-python/threadPoject/demo.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Zh-python/threadPoject/multiProcessDemo.py" afterPath="$PROJECT_DIR$/../Zh-python/threadPoject/multiProcessDemo.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/paraQueue.py" afterPath="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/paraQueue.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/sipPaser.py" afterPath="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/sipPaser.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/udpServer.py" afterPath="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/udpServer.py" />
     </list>
+    <list id="af942e54-5c9a-4abf-952b-0e8b13cb593a" name="New changelist" comment="nothing" />
+    <list id="a81cbc12-b188-46da-9ec8-1be87c349e31" name="Failed commit: New changelist" comment="nothing" />
     <ignored path="Heibaike-python.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored mask="*.zip" />
@@ -893,69 +394,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="paraQueue.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/paraQueue.py">
+      <file leaf-file-name="homework8_ex.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson8/homework8_ex.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="52" column="18" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+            <state relative-caret-position="2920">
+              <caret line="152" column="0" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
               <folding>
-                <element signature="e#41#64#0" expanded="true" />
+                <element signature="e#127#160#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sipPaser.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/sipPaser.py">
+      <file leaf-file-name="homework8_ex_pr.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson8/homework8_ex_pr.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="udpClient.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/udpClient.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sqlHandle.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/sqlHandle.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            <state relative-caret-position="420">
+              <caret line="59" column="29" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
               <folding>
-                <element signature="e#145#181#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="udpServer.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/udpServer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-              <folding>
-                <element signature="e#139#152#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="homework5_ex.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson5/homework5_ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="17" />
-              <folding>
-                <element signature="e#126#162#0" expanded="true" />
+                <element signature="e#127#160#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -966,6 +423,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Log Script" />
         <option value="Python Script" />
       </list>
     </option>
@@ -985,25 +443,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lesson7/src/selenium_demo.py" />
-        <option value="$PROJECT_DIR$/../Dataguru-python/lesson6/mongoDemo.py" />
-        <option value="$PROJECT_DIR$/../Dataguru-python/lesson6/aggregationDemo.py" />
-        <option value="$PROJECT_DIR$/lesson7/homework/scrapy_ex1Demo.py" />
-        <option value="$PROJECT_DIR$/lesson7/homework/demo_ex1.py" />
-        <option value="$PROJECT_DIR$/lesson7/homework/scrapy_ex2.py" />
-        <option value="$PROJECT_DIR$/lesson7/src/crawler_ex02.py" />
-        <option value="$PROJECT_DIR$/lesson7/src/crawler_ex02_1.py" />
-        <option value="$PROJECT_DIR$/lesson7/src/crawler_ex.py" />
-        <option value="$PROJECT_DIR$/lesson7/homework/scrapy_ex1.py" />
-        <option value="$PROJECT_DIR$/lesson7/homework/scrapy_ex3.py" />
-        <option value="$PROJECT_DIR$/lesson7/src/session_post.py" />
-        <option value="$PROJECT_DIR$/lesson8/src/gil_test0.py" />
-        <option value="$PROJECT_DIR$/../Zh-python/pdfkit_ex.py" />
-        <option value="$PROJECT_DIR$/lesson8/src/para_producer_consumer_queue.py" />
-        <option value="$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyTest.py" />
-        <option value="$PROJECT_DIR$/../Dataguru-python/lesson6/homework6_ex.py" />
-        <option value="$PROJECT_DIR$/../Zh-python/__init__.py" />
-        <option value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/__init__.py" />
         <option value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/sqlHandle.py" />
         <option value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/udpServer.py" />
         <option value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/main.py" />
@@ -1018,10 +457,8 @@
         <option value="$PROJECT_DIR$/../Dataguru-python/lesson7/text/22" />
         <option value="$PROJECT_DIR$/../Dataguru-python/lesson7/bs4Demo.py" />
         <option value="$PROJECT_DIR$/../Dataguru-python/lesson7/beautifulsoupDemo.py" />
-        <option value="$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo5.py" />
         <option value="$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo.py" />
         <option value="$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo1.py" />
-        <option value="$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo_novel.py" />
         <option value="$PROJECT_DIR$/../MG-python/beautifulSoup/bsDemo3.3.py" />
         <option value="$PROJECT_DIR$/../MG-python/beautifulSoup/scrapyDemo3.4.py" />
         <option value="$PROJECT_DIR$/../Scrapy-python/wikiSpider/wikiSpider/items.py" />
@@ -1031,11 +468,32 @@
         <option value="$PROJECT_DIR$/../MG-python/beautifulSoup/bsDemo3.1.py" />
         <option value="$PROJECT_DIR$/../MG-python/beautifulSoup/bsDemo-novel.py" />
         <option value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/para_queue.py" />
-        <option value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/sipPaser.py" />
         <option value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/udpClient.py" />
         <option value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/sqlHandle.py" />
+        <option value="$PROJECT_DIR$/../Zh-python/singalPoject/demo.py" />
+        <option value="$PROJECT_DIR$/../Zh-python/threadPoject/multiProcssDemo.py" />
+        <option value="$PROJECT_DIR$/../Dataguru-python/lesson8/threadDemo.py" />
+        <option value="$PROJECT_DIR$/../Dataguru-python/lesson8/processDemo.py" />
+        <option value="$PROJECT_DIR$/../Zh-python/threadPoject/multiProcessDemo.py" />
+        <option value="$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo_novel.py.log" />
+        <option value="$PROJECT_DIR$/../Zh-python/threadPoject/demo.py" />
+        <option value="$PROJECT_DIR$/../Zh-python/demo.py" />
+        <option value="$PROJECT_DIR$/../Zh-python/threadPoject/demo..py" />
+        <option value="$PROJECT_DIR$/../Zh-python/threadPoject/FreezeDemo.py" />
         <option value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/udpServer.py" />
+        <option value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/sipPaser.py" />
+        <option value="$PROJECT_DIR$/../Zh-python/threadPoject/PoolDemo..py" />
+        <option value="$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo5.py" />
+        <option value="$PROJECT_DIR$/../Zh-python/threadPoject/multiThreadDemo.py" />
         <option value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/paraQueue.py" />
+        <option value="$PROJECT_DIR$/lesson8/src/sum_primes.py" />
+        <option value="$PROJECT_DIR$/../Dataguru-python/lesson8/movieDemo.py" />
+        <option value="$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo_novel.py" />
+        <option value="$PROJECT_DIR$/../Dataguru-python/lesson8/scrapyDemo_novel.py" />
+        <option value="$PROJECT_DIR$/../Dataguru-python/lesson8/poolDemo.py" />
+        <option value="$PROJECT_DIR$/../Dataguru-python/lesson8/homework8_ex_process.py" />
+        <option value="$PROJECT_DIR$/../Dataguru-python/lesson8/homework8_ex.py" />
+        <option value="$PROJECT_DIR$/../Dataguru-python/lesson8/homework8_ex_pr.py" />
       </list>
     </option>
   </component>
@@ -1052,10 +510,13 @@
           <State>
             <id />
           </State>
+          <State>
+            <id>Python</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>Buildout</id>
+            <id>PyInterpreterInspection</id>
           </State>
         </selected-state>
       </profile-state>
@@ -1086,6 +547,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1114,7 +577,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="videoSqlPoject" />
+              <option name="myItemId" value="threadPoject" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1124,23 +587,40 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Dataguru-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Heibaike-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dataguru-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson8" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MG-python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Zh-python" />
     <property name="SearchEverywhereHistoryKey" value="#&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zhang\Documents\python\pycharm-project\Dataguru-python\lesson8" />
+      <recent name="C:\Users\zhang\Documents\python\pycharm-project\Dataguru-python\lesson4" />
+      <recent name="C:\Users\zhang\Documents\python\pycharm-project\Heibaike-python\lesson6\homework" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\zhang\Documents\python\pycharm-project\Scrapy-python\wikiSpider" />
       <recent name="C:\Users\zhang\Documents\python\pycharm-project\Scrapy-python" />
@@ -1148,93 +628,89 @@
       <recent name="C:\Users\zhang\Documents\python\pycharm-project\MG-python\lesson0" />
       <recent name="C:\Users\zhang\Documents\python\pycharm-project\Dataguru-python\lesson7" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\zhang\Documents\python\pycharm-project\Dataguru-python\lesson4" />
-      <recent name="C:\Users\zhang\Documents\python\pycharm-project\Heibaike-python\lesson6\homework" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.paraQueue">
-    <configuration default="false" name="bsDemo-novel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.homework8_ex_pr">
+    <configuration default="false" name="homework8_ex" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../MG-python/beautifulSoup" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="MG-python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../MG-python/beautifulSoup/bsDemo-novel.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="sipPaser" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Zh-python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/sipPaser.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="paraQueue" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Zh-python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/paraQueue.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="homework5_ex" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Dataguru-python/lesson5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Dataguru-python/lesson8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Dataguru-python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Dataguru-python/lesson5/homework5_ex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Dataguru-python/lesson8/homework8_ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="udpServer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="homework8_ex_process" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Dataguru-python/lesson8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Dataguru-python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Dataguru-python/lesson8/homework8_ex_process.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="multiProcessDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Zh-python/threadPoject" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Zh-python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/udpServer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Zh-python/threadPoject/multiProcessDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="poolDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Dataguru-python/lesson8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Dataguru-python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Dataguru-python/lesson8/poolDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="homework8_ex_pr" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Dataguru-python/lesson8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Dataguru-python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Dataguru-python/lesson8/homework8_ex_pr.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -1374,19 +850,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.bsDemo-novel" />
-      <item index="1" class="java.lang.String" itemvalue="Python.sipPaser" />
-      <item index="2" class="java.lang.String" itemvalue="Python.paraQueue" />
-      <item index="3" class="java.lang.String" itemvalue="Python.homework5_ex" />
-      <item index="4" class="java.lang.String" itemvalue="Python.udpServer" />
+      <item index="0" class="java.lang.String" itemvalue="Python.homework8_ex" />
+      <item index="1" class="java.lang.String" itemvalue="Python.homework8_ex_process" />
+      <item index="2" class="java.lang.String" itemvalue="Python.multiProcessDemo" />
+      <item index="3" class="java.lang.String" itemvalue="Python.poolDemo" />
+      <item index="4" class="java.lang.String" itemvalue="Python.homework8_ex_pr" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.paraQueue" />
-        <item index="1" class="java.lang.String" itemvalue="Python.udpServer" />
-        <item index="2" class="java.lang.String" itemvalue="Python.homework5_ex" />
-        <item index="3" class="java.lang.String" itemvalue="Python.sipPaser" />
-        <item index="4" class="java.lang.String" itemvalue="Python.bsDemo-novel" />
+        <item index="0" class="java.lang.String" itemvalue="Python.homework8_ex_pr" />
+        <item index="1" class="java.lang.String" itemvalue="Python.homework8_ex" />
+        <item index="2" class="java.lang.String" itemvalue="Python.homework8_ex_process" />
+        <item index="3" class="java.lang.String" itemvalue="Python.poolDemo" />
+        <item index="4" class="java.lang.String" itemvalue="Python.multiProcessDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -1399,6 +875,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="98fa174b-d36d-4d45-8e19-9b8a85972bf9" name="Default" comment="" />
+      <changelist id="af942e54-5c9a-4abf-952b-0e8b13cb593a" name="New changelist" comment="nothing" />
       <created>1477456017727</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -1453,7 +930,63 @@
       <option name="project" value="LOCAL" />
       <updated>1479720320936</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="代码更新。">
+      <created>1479721078741</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1479721078741</updated>
+    </task>
+    <task id="LOCAL-00009" summary="nothing">
+      <created>1479721171829</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1479721171829</updated>
+    </task>
+    <task id="LOCAL-00010" summary="nothing">
+      <created>1479721188861</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1479721188861</updated>
+    </task>
+    <task id="LOCAL-00011" summary="nothing">
+      <created>1479721209168</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1479721209168</updated>
+    </task>
+    <task id="LOCAL-00012" summary="nothing">
+      <created>1479721271302</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1479721271302</updated>
+    </task>
+    <task id="LOCAL-00013" summary="python多进程开发的demo。">
+      <created>1479740457835</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1479740457835</updated>
+    </task>
+    <task id="LOCAL-00014" summary="基于python实现的生产消费模型，采取的是多线程方式。&#10;功能是：&#10;生产者通过updserver将读取的sip报文写入queue中，&#10;消费者通过queue提取sip信息，解析，写入数据库。&#10;&#10;存在的问题：&#10;1、可能存在编码问题；&#10;2、程序运行后，不能通过crtl+c的方式中断。">
+      <created>1479740704965</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1479740704965</updated>
+    </task>
+    <task id="LOCAL-00015" summary="基于python实现的生产消费模型，采取的是多线程方式。&#10;功能是：&#10;生产者通过updserver将读取的sip报文写入queue中，&#10;消费者通过queue提取sip信息，解析，写入数据库。&#10;&#10;存在的问题：&#10;1、可能存在编码问题；&#10;2、程序运行后，不能通过crtl+c的方式中断。&#10;&#10;已解决上述问题。&#10;新增：日志调试、多进程模式；&#10;待完善：任务处理采用轮询方式，需更改为事件模式。">
+      <created>1479793656328</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1479793656328</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1498,26 +1031,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13050398" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11193634" sideWeight="0.49393415" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275218" sideWeight="0.49404117" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2938979" sideWeight="0.44615385" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3312578" sideWeight="0.4928382" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.49814323" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2938979" sideWeight="0.5538462" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28144458" sideWeight="0.48753315" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2403487" sideWeight="0.49336872" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32754344" sideWeight="0.49600425" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24827586" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5691158" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3985056" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11193634" sideWeight="0.50606585" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28144458" sideWeight="0.51246685" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25125" sideWeight="0.49177718" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39726028" sideWeight="0.49814323" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="UnknownFeatures">
@@ -1568,7 +1101,13 @@
     <MESSAGE value="para_queue重命名为paraQueue.&#10;" />
     <MESSAGE value="更新功能。&#10;" />
     <MESSAGE value="非代码更新。" />
-    <option name="LAST_COMMIT_MESSAGE" value="非代码更新。" />
+    <MESSAGE value="代码更新。" />
+    <MESSAGE value="nothing" />
+    <MESSAGE value="python多进程开发的demo。" />
+    <MESSAGE value="基于python实现的生产消费模型，采取的是多线程方式。&#10;功能是：&#10;生产者通过updserver将读取的sip报文写入queue中，&#10;消费者通过queue提取sip信息，解析，写入数据库。&#10;&#10;存在的问题：&#10;1、可能存在编码问题；&#10;2、程序运行后，不能通过crtl+c的方式中断。" />
+    <MESSAGE value="基于python实现的生产消费模型，采取的是多线程方式。&#10;功能是：&#10;生产者通过updserver将读取的sip报文写入queue中，&#10;消费者通过queue提取sip信息，解析，写入数据库。&#10;&#10;存在的问题：&#10;1、可能存在编码问题；&#10;2、程序运行后，不能通过crtl+c的方式中断。&#10;&#10;已解决上述问题。&#10;新增：日志调试、多进程模式；&#10;待完善：任务处理采用轮询方式，需更改为事件模式。" />
+    <option name="LAST_COMMIT_MESSAGE" value="基于python实现的生产消费模型，采取的是多线程方式。&#10;功能是：&#10;生产者通过updserver将读取的sip报文写入queue中，&#10;消费者通过queue提取sip信息，解析，写入数据库。&#10;&#10;存在的问题：&#10;1、可能存在编码问题；&#10;2、程序运行后，不能通过crtl+c的方式中断。&#10;&#10;已解决上述问题。&#10;新增：日志调试、多进程模式；&#10;待完善：任务处理采用轮询方式，需更改为事件模式。" />
+    <option name="PRESELECT_EXISTING_CHANGELIST" value="false" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1589,235 +1128,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="21" />
+      <option name="time" value="24" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/Python27/Lib/site-packages/requests/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/text/0">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-960">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/text/1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/text/2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/text/34">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/text/33">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/text/35">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/text/36">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/text/49">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/text/22">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2020">
-          <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/text/28">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/text/26">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/text/4">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/text/3">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/douban_book_parser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="41" column="44" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python27/Lib/HTMLParser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="474" column="0" selection-start-line="474" selection-start-column="0" selection-end-line="474" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-21">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python27/Lib/site-packages/requests/sessions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="595" column="0" selection-start-line="595" selection-start-column="0" selection-end-line="595" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python27/Lib/site-packages/requests/adapters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="486" column="0" selection-start-line="486" selection-start-column="0" selection-end-line="486" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo_novel.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="103" column="4" selection-start-line="103" selection-start-column="4" selection-end-line="103" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/bookList.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="131" column="3" selection-start-line="131" selection-start-column="3" selection-end-line="131" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="91" column="24" selection-start-line="91" selection-start-column="24" selection-end-line="91" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="78" column="4" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/bs4Demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../MG-python/beautifulSoup/bsDemo3.3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Scrapy-python/wikiSpider/scrapyDemo3.4.py" />
-    <entry file="file://$PROJECT_DIR$/../Scrapy-python/wikiSpider/wikiSpider/spiders/articleSpider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/doubanbookspider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../MG-python/beautifulSoup/logo.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo_novel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="90" column="23" selection-start-line="90" selection-start-column="8" selection-end-line="90" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson7/homework/scrapy_ex3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="26" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../MG-python/beautifulSoup/bsDemo3.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="122" column="29" selection-start-line="122" selection-start-column="22" selection-end-line="122" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../MG-python/beautifulSoup/bsDemo-novel.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="439">
@@ -1868,52 +1183,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson8/src/para_producer_consumer_queue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson8/src/para_producer_consumer_nolock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-419">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson8/src/gil_test0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-420">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/udpClient.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/sqlHandle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          <folding>
-            <element signature="e#145#181#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson5/homework5_ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="17" />
-          <folding>
-            <element signature="e#126#162#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson7/homework/demo_ex1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/multiprocessing/process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="129" column="0" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1924,30 +1211,239 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/udpServer.py">
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/__main__.log" />
+    <entry file="file://$PROJECT_DIR$/../Zh-python/threadPoject/demo.py" />
+    <entry file="file://$PROJECT_DIR$/../Zh-python/demo.py" />
+    <entry file="file://$PROJECT_DIR$/../Zh-python/threadPoject/demo.python" />
+    <entry file="file://$PROJECT_DIR$/../Zh-python/threadPoject/PoolDemo..pyc.log" />
+    <entry file="file://$PROJECT_DIR$/../Zh-python/threadPoject/PoolDemo..py.log" />
+    <entry file="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-762174762/_socket.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-          <folding>
-            <element signature="e#139#152#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="352">
+          <caret line="502" column="16" selection-start-line="502" selection-start-column="8" selection-end-line="502" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/sipPaser.py">
+    <entry file="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/sqlHandle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="16" />
-          <folding />
+          <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/udpClient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/udpServer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zh-python/threadPoject/__main__.log" />
+    <entry file="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/sipPaser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="184" column="16" selection-start-line="184" selection-start-column="16" selection-end-line="184" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../Zh-python/videoSqlPoject/src/paraQueue.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="52" column="18" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+        <state relative-caret-position="20">
+          <caret line="53" column="28" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/pptransport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3120">
+          <caret line="156" column="63" selection-start-line="156" selection-start-column="57" selection-end-line="156" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/pp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="153" column="0" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson8/src/sum_primes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="55" column="40" selection-start-line="55" selection-start-column="40" selection-end-line="55" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo_novel.py.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="70" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson8/src/gil_test0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson8/threadDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson8/processDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="8" selection-start-line="2" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson8/src/para_producer_consumer_queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson8/src/para_producer_consumer_nolock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1940">
+          <caret line="101" column="13" selection-start-line="101" selection-start-column="13" selection-end-line="101" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo_novel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1860">
+          <caret line="96" column="37" selection-start-line="96" selection-start-column="37" selection-end-line="96" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson7/scrapyDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2740">
+          <caret line="140" column="30" selection-start-line="140" selection-start-column="26" selection-end-line="140" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson8/movieDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="55" column="25" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zh-python/threadPoject/demo..py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="0" selection-end-line="10" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zh-python/threadPoject/PoolDemo..py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson8/src/crawler_thread_map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="76" column="60" selection-start-line="76" selection-start-column="60" selection-end-line="76" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zh-python/threadPoject/multiThreadDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="55" column="48" selection-start-line="55" selection-start-column="48" selection-end-line="55" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zh-python/threadPoject/multiProcessDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="28" column="50" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zh-python/threadPoject/multiProcssDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zh-python/threadPoject/FreezeDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/multiprocessing/pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="566" column="0" selection-start-line="566" selection-start-column="0" selection-end-line="566" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson8/poolDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson8/homework8_ex_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="167" column="8" selection-start-line="167" selection-start-column="0" selection-end-line="168" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson8/homework8_ex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2920">
+          <caret line="152" column="0" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
           <folding>
-            <element signature="e#41#64#0" expanded="true" />
+            <element signature="e#127#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dataguru-python/lesson8/homework8_ex_pr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="59" column="29" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
+          <folding>
+            <element signature="e#127#160#0" expanded="true" />
           </folding>
         </state>
       </provider>
