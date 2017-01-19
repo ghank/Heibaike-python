@@ -4,8 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../Dataguru-python/.idea/Dataguru-python.iml" filepath="$PROJECT_DIR$/../Dataguru-python/.idea/Dataguru-python.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Heibaike-python.iml" filepath="$PROJECT_DIR$/.idea/Heibaike-python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Heibanke2-python/.idea/Heibanke2-python.iml" filepath="$PROJECT_DIR$/../Heibanke2-python/.idea/Heibanke2-python.iml" />
       <module fileurl="file://$PROJECT_DIR$/../MG-python/.idea/MG-python.iml" filepath="$PROJECT_DIR$/../MG-python/.idea/MG-python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Practive-python/.idea/Practive-python.iml" filepath="$PROJECT_DIR$/../Practive-python/.idea/Practive-python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Scrapy-python/.idea/Scrapy-python.iml" filepath="$PROJECT_DIR$/../Scrapy-python/.idea/Scrapy-python.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Zh-python/.idea/Zh-python.iml" filepath="$PROJECT_DIR$/../Zh-python/.idea/Zh-python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../pipeg/.idea/pipeg.iml" filepath="$PROJECT_DIR$/../../pipeg/.idea/pipeg.iml" />
     </modules>
   </component>
 </project>
